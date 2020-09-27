@@ -6,6 +6,3 @@
   <b><p>link to live site on GitHub Pages: </p><b>
 <a href="http://localhost/trial/index.html?year=2000&month=13&date=2&gender=on">Click Here</a>
                             
-
-
-
